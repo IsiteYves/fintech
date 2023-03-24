@@ -1,0 +1,1318 @@
+[
+    {
+        "merged": "com.tinna.app-merged_res-31:/drawable-mdpi_node_modules_reactnativecountryflag_dist_cjs_flags_tl.png.flat",
+        "source": "com.tinna.app-main-33:/drawable-mdpi/node_modules_reactnativecountryflag_dist_cjs_flags_tl.png"
+    },
+    {
+        "merged": "com.tinna.app-merged_res-31:/drawable-mdpi_node_modules_reactnativecountryflag_dist_cjs_flags_by.png.flat",
+        "source": "com.tinna.app-main-33:/drawable-mdpi/node_modules_reactnativecountryflag_dist_cjs_flags_by.png"
+    },
+    {
+        "merged": "com.tinna.app-merged_res-31:/drawable-mdpi_node_modules_reactnativecountryflag_dist_cjs_flags_hk.png.flat",
+        "source": "com.tinna.app-main-33:/drawable-mdpi/node_modules_reactnativecountryflag_dist_cjs_flags_hk.png"
+    },
+    {
+        "merged": "com.tinna.app-merged_res-31:/drawable-mdpi_node_modules_reactnativecountryflag_dist_cjs_flags_lb.png.flat",
+        "source": "com.tinna.app-main-33:/drawable-mdpi/node_modules_reactnativecountryflag_dist_cjs_flags_lb.png"
+    },
+    {
+        "merged": "com.tinna.app-merged_res-31:/drawable-mdpi_node_modules_reactnativecountryflag_dist_cjs_flags_pg.png.flat",
+        "source": "com.tinna.app-main-33:/drawable-mdpi/node_modules_reactnativecountryflag_dist_cjs_flags_pg.png"
+    },
+    {
+        "merged": "com.tinna.app-merged_res-31:/drawable-mdpi_assets_images_tsirt2.png.flat",
+        "source": "com.tinna.app-main-33:/drawable-mdpi/assets_images_tsirt2.png"
+    },
+    {
+        "merged": "com.tinna.app-merged_res-31:/drawable-mdpi_node_modules_reactnativecountryflag_dist_cjs_flags_sn.png.flat",
+        "source": "com.tinna.app-main-33:/drawable-mdpi/node_modules_reactnativecountryflag_dist_cjs_flags_sn.png"
+    },
+    {
+        "merged": "com.tinna.app-merged_res-31:/drawable-mdpi_node_modules_reactnativecountryflag_dist_cjs_flags_mn.png.flat",
+        "source": "com.tinna.app-main-33:/drawable-mdpi/node_modules_reactnativecountryflag_dist_cjs_flags_mn.png"
+    },
+    {
+        "merged": "com.tinna.app-merged_res-31:/drawable-mdpi_node_modules_reactnativecountryflag_dist_cjs_flags_ws.png.flat",
+        "source": "com.tinna.app-main-33:/drawable-mdpi/node_modules_reactnativecountryflag_dist_cjs_flags_ws.png"
+    },
+    {
+        "merged": "com.tinna.app-merged_res-31:/drawable-mdpi_assets_images_logos_1.png.flat",
+        "source": "com.tinna.app-main-33:/drawable-mdpi/assets_images_logos_1.png"
+    },
+    {
+        "merged": "com.tinna.app-merged_res-31:/drawable-mdpi_node_modules_reactnativecountryflag_dist_cjs_flags_vg.png.flat",
+        "source": "com.tinna.app-main-33:/drawable-mdpi/node_modules_reactnativecountryflag_dist_cjs_flags_vg.png"
+    },
+    {
+        "merged": "com.tinna.app-merged_res-31:/drawable-mdpi_node_modules_reactnativecountryflag_dist_cjs_flags_nl.png.flat",
+        "source": "com.tinna.app-main-33:/drawable-mdpi/node_modules_reactnativecountryflag_dist_cjs_flags_nl.png"
+    },
+    {
+        "merged": "com.tinna.app-merged_res-31:/drawable-mdpi_assets_images_slide1.png.flat",
+        "source": "com.tinna.app-main-33:/drawable-mdpi/assets_images_slide1.png"
+    },
+    {
+        "merged": "com.tinna.app-merged_res-31:/drawable-mdpi_node_modules_reactnativecountryflag_dist_cjs_flags_gn.png.flat",
+        "source": "com.tinna.app-main-33:/drawable-mdpi/node_modules_reactnativecountryflag_dist_cjs_flags_gn.png"
+    },
+    {
+        "merged": "com.tinna.app-merged_res-31:/drawable-mdpi_node_modules_reactnavigation_elements_src_assets_backiconmask.png.flat",
+        "source": "com.tinna.app-main-33:/drawable-mdpi/node_modules_reactnavigation_elements_src_assets_backiconmask.png"
+    },
+    {
+        "merged": "com.tinna.app-merged_res-31:/drawable-mdpi_node_modules_reactnativecountryflag_dist_cjs_flags_nz.png.flat",
+        "source": "com.tinna.app-main-33:/drawable-mdpi/node_modules_reactnativecountryflag_dist_cjs_flags_nz.png"
+    },
+    {
+        "merged": "com.tinna.app-merged_res-31:/drawable-mdpi_node_modules_reactnativecountryflag_dist_cjs_flags_am.png.flat",
+        "source": "com.tinna.app-main-33:/drawable-mdpi/node_modules_reactnativecountryflag_dist_cjs_flags_am.png"
+    },
+    {
+        "merged": "com.tinna.app-merged_res-31:/drawable-xxxhdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "com.tinna.app-main-33:/drawable-xxxhdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "com.tinna.app-merged_res-31:/drawable-mdpi_node_modules_reactnativecountryflag_dist_cjs_flags_er.png.flat",
+        "source": "com.tinna.app-main-33:/drawable-mdpi/node_modules_reactnativecountryflag_dist_cjs_flags_er.png"
+    },
+    {
+        "merged": "com.tinna.app-merged_res-31:/drawable-mdpi_assets_images_info2.png.flat",
+        "source": "com.tinna.app-main-33:/drawable-mdpi/assets_images_info2.png"
+    },
+    {
+        "merged": "com.tinna.app-merged_res-31:/drawable-mdpi_node_modules_reactnativecountryflag_dist_cjs_flags_de.png.flat",
+        "source": "com.tinna.app-main-33:/drawable-mdpi/node_modules_reactnativecountryflag_dist_cjs_flags_de.png"
+    },
+    {
+        "merged": "com.tinna.app-merged_res-31:/drawable-mdpi_node_modules_reactnativecountryflag_dist_cjs_flags_es.png.flat",
+        "source": "com.tinna.app-main-33:/drawable-mdpi/node_modules_reactnativecountryflag_dist_cjs_flags_es.png"
+    },
+    {
+        "merged": "com.tinna.app-merged_res-31:/drawable-mdpi_node_modules_reactnativecountryflag_dist_cjs_flags_ci.png.flat",
+        "source": "com.tinna.app-main-33:/drawable-mdpi/node_modules_reactnativecountryflag_dist_cjs_flags_ci.png"
+    },
+    {
+        "merged": "com.tinna.app-merged_res-31:/drawable-mdpi_node_modules_reactnativedropdownselectlist_assets_images_chevron.png.flat",
+        "source": "com.tinna.app-main-33:/drawable-mdpi/node_modules_reactnativedropdownselectlist_assets_images_chevron.png"
+    },
+    {
+        "merged": "com.tinna.app-merged_res-31:/drawable-mdpi_node_modules_reactnativecountryflag_dist_cjs_flags_vu.png.flat",
+        "source": "com.tinna.app-main-33:/drawable-mdpi/node_modules_reactnativecountryflag_dist_cjs_flags_vu.png"
+    },
+    {
+        "merged": "com.tinna.app-merged_res-31:/drawable-mdpi_node_modules_reactnativecountryflag_dist_cjs_flags_mo.png.flat",
+        "source": "com.tinna.app-main-33:/drawable-mdpi/node_modules_reactnativecountryflag_dist_cjs_flags_mo.png"
+    },
+    {
+        "merged": "com.tinna.app-merged_res-31:/drawable-mdpi_node_modules_reactnativecountryflag_dist_cjs_flags_uy.png.flat",
+        "source": "com.tinna.app-main-33:/drawable-mdpi/node_modules_reactnativecountryflag_dist_cjs_flags_uy.png"
+    },
+    {
+        "merged": "com.tinna.app-merged_res-31:/drawable-mdpi_node_modules_reactnativecountryflag_dist_cjs_flags_ee.png.flat",
+        "source": "com.tinna.app-main-33:/drawable-mdpi/node_modules_reactnativecountryflag_dist_cjs_flags_ee.png"
+    },
+    {
+        "merged": "com.tinna.app-merged_res-31:/drawable-mdpi_node_modules_reactnativecountryflag_dist_cjs_flags_sm.png.flat",
+        "source": "com.tinna.app-main-33:/drawable-mdpi/node_modules_reactnativecountryflag_dist_cjs_flags_sm.png"
+    },
+    {
+        "merged": "com.tinna.app-merged_res-31:/drawable-mdpi_node_modules_reactnativecountryflag_dist_cjs_flags_cw.png.flat",
+        "source": "com.tinna.app-main-33:/drawable-mdpi/node_modules_reactnativecountryflag_dist_cjs_flags_cw.png"
+    },
+    {
+        "merged": "com.tinna.app-merged_res-31:/drawable-mdpi_node_modules_reactnativecountryflag_dist_cjs_flags_tz.png.flat",
+        "source": "com.tinna.app-main-33:/drawable-mdpi/node_modules_reactnativecountryflag_dist_cjs_flags_tz.png"
+    },
+    {
+        "merged": "com.tinna.app-merged_res-31:/drawable-mdpi_node_modules_reactnativecountryflag_dist_cjs_flags_zm.png.flat",
+        "source": "com.tinna.app-main-33:/drawable-mdpi/node_modules_reactnativecountryflag_dist_cjs_flags_zm.png"
+    },
+    {
+        "merged": "com.tinna.app-merged_res-31:/drawable-mdpi_node_modules_reactnativecountryflag_dist_cjs_flags_fo.png.flat",
+        "source": "com.tinna.app-main-33:/drawable-mdpi/node_modules_reactnativecountryflag_dist_cjs_flags_fo.png"
+    },
+    {
+        "merged": "com.tinna.app-merged_res-31:/drawable-mdpi_node_modules_reactnativecountryflag_dist_cjs_flags_bj.png.flat",
+        "source": "com.tinna.app-main-33:/drawable-mdpi/node_modules_reactnativecountryflag_dist_cjs_flags_bj.png"
+    },
+    {
+        "merged": "com.tinna.app-merged_res-31:/drawable-mdpi_node_modules_reactnativecountryflag_dist_cjs_flags_lr.png.flat",
+        "source": "com.tinna.app-main-33:/drawable-mdpi/node_modules_reactnativecountryflag_dist_cjs_flags_lr.png"
+    },
+    {
+        "merged": "com.tinna.app-merged_res-31:/drawable-mdpi_node_modules_reactnativecountryflag_dist_cjs_flags_vi.png.flat",
+        "source": "com.tinna.app-main-33:/drawable-mdpi/node_modules_reactnativecountryflag_dist_cjs_flags_vi.png"
+    },
+    {
+        "merged": "com.tinna.app-merged_res-31:/drawable-mdpi_node_modules_reactnativecountryflag_dist_cjs_flags_uz.png.flat",
+        "source": "com.tinna.app-main-33:/drawable-mdpi/node_modules_reactnativecountryflag_dist_cjs_flags_uz.png"
+    },
+    {
+        "merged": "com.tinna.app-merged_res-31:/drawable-mdpi_node_modules_reactnativedropdownselectlist_assets_images_check.png.flat",
+        "source": "com.tinna.app-main-33:/drawable-mdpi/node_modules_reactnativedropdownselectlist_assets_images_check.png"
+    },
+    {
+        "merged": "com.tinna.app-merged_res-31:/drawable-mdpi_assets_images_sales2.png.flat",
+        "source": "com.tinna.app-main-33:/drawable-mdpi/assets_images_sales2.png"
+    },
+    {
+        "merged": "com.tinna.app-merged_res-31:/drawable-mdpi_node_modules_reactnativecountryflag_dist_cjs_flags_sb.png.flat",
+        "source": "com.tinna.app-main-33:/drawable-mdpi/node_modules_reactnativecountryflag_dist_cjs_flags_sb.png"
+    },
+    {
+        "merged": "com.tinna.app-merged_res-31:/drawable-mdpi_node_modules_reactnativecountryflag_dist_cjs_flags_et.png.flat",
+        "source": "com.tinna.app-main-33:/drawable-mdpi/node_modules_reactnativecountryflag_dist_cjs_flags_et.png"
+    },
+    {
+        "merged": "com.tinna.app-merged_res-31:/drawable-mdpi_node_modules_reactnativecountryflag_dist_cjs_flags_pe.png.flat",
+        "source": "com.tinna.app-main-33:/drawable-mdpi/node_modules_reactnativecountryflag_dist_cjs_flags_pe.png"
+    },
+    {
+        "merged": "com.tinna.app-merged_res-31:/drawable-mdpi_assets_images_mydebts.png.flat",
+        "source": "com.tinna.app-main-33:/drawable-mdpi/assets_images_mydebts.png"
+    },
+    {
+        "merged": "com.tinna.app-merged_res-31:/drawable-mdpi_node_modules_reactnativecountryflag_dist_cjs_flags_mp.png.flat",
+        "source": "com.tinna.app-main-33:/drawable-mdpi/node_modules_reactnativecountryflag_dist_cjs_flags_mp.png"
+    },
+    {
+        "merged": "com.tinna.app-merged_res-31:/drawable-mdpi_assets_images_info.png.flat",
+        "source": "com.tinna.app-main-33:/drawable-mdpi/assets_images_info.png"
+    },
+    {
+        "merged": "com.tinna.app-merged_res-31:/drawable-mdpi_node_modules_reactnativecountryflag_dist_cjs_flags_ph.png.flat",
+        "source": "com.tinna.app-main-33:/drawable-mdpi/node_modules_reactnativecountryflag_dist_cjs_flags_ph.png"
+    },
+    {
+        "merged": "com.tinna.app-merged_res-31:/drawable-mdpi_node_modules_reactnativecountryflag_dist_cjs_flags_ma.png.flat",
+        "source": "com.tinna.app-main-33:/drawable-mdpi/node_modules_reactnativecountryflag_dist_cjs_flags_ma.png"
+    },
+    {
+        "merged": "com.tinna.app-merged_res-31:/drawable-mdpi_node_modules_reactnativecountryflag_dist_cjs_flags_rs.png.flat",
+        "source": "com.tinna.app-main-33:/drawable-mdpi/node_modules_reactnativecountryflag_dist_cjs_flags_rs.png"
+    },
+    {
+        "merged": "com.tinna.app-merged_res-31:/drawable-mdpi_assets_images_opcashflow.png.flat",
+        "source": "com.tinna.app-main-33:/drawable-mdpi/assets_images_opcashflow.png"
+    },
+    {
+        "merged": "com.tinna.app-merged_res-31:/drawable-mdpi_node_modules_reactnativecountryflag_dist_cjs_flags_gl.png.flat",
+        "source": "com.tinna.app-main-33:/drawable-mdpi/node_modules_reactnativecountryflag_dist_cjs_flags_gl.png"
+    },
+    {
+        "merged": "com.tinna.app-merged_res-31:/drawable-mdpi_node_modules_reactnativecountryflag_dist_cjs_flags_ck.png.flat",
+        "source": "com.tinna.app-main-33:/drawable-mdpi/node_modules_reactnativecountryflag_dist_cjs_flags_ck.png"
+    },
+    {
+        "merged": "com.tinna.app-merged_res-31:/drawable-mdpi_assets_images_report.png.flat",
+        "source": "com.tinna.app-main-33:/drawable-mdpi/assets_images_report.png"
+    },
+    {
+        "merged": "com.tinna.app-merged_res-31:/drawable-mdpi_node_modules_reactnativecountryflag_dist_cjs_flags_re.png.flat",
+        "source": "com.tinna.app-main-33:/drawable-mdpi/node_modules_reactnativecountryflag_dist_cjs_flags_re.png"
+    },
+    {
+        "merged": "com.tinna.app-merged_res-31:/drawable-mdpi_node_modules_reactnativecountryflag_dist_cjs_flags_bh.png.flat",
+        "source": "com.tinna.app-main-33:/drawable-mdpi/node_modules_reactnativecountryflag_dist_cjs_flags_bh.png"
+    },
+    {
+        "merged": "com.tinna.app-merged_res-31:/drawable-mdpi_node_modules_reactnativecountryflag_dist_cjs_flags_la.png.flat",
+        "source": "com.tinna.app-main-33:/drawable-mdpi/node_modules_reactnativecountryflag_dist_cjs_flags_la.png"
+    },
+    {
+        "merged": "com.tinna.app-merged_res-31:/drawable-mdpi_assets_images_controlpannel.png.flat",
+        "source": "com.tinna.app-main-33:/drawable-mdpi/assets_images_controlpannel.png"
+    },
+    {
+        "merged": "com.tinna.app-merged_res-31:/drawable-mdpi_node_modules_reactnativecountryflag_dist_cjs_flags_wf.png.flat",
+        "source": "com.tinna.app-main-33:/drawable-mdpi/node_modules_reactnativecountryflag_dist_cjs_flags_wf.png"
+    },
+    {
+        "merged": "com.tinna.app-merged_res-31:/drawable-mdpi_node_modules_reactnativecountryflag_dist_cjs_flags_mm.png.flat",
+        "source": "com.tinna.app-main-33:/drawable-mdpi/node_modules_reactnativecountryflag_dist_cjs_flags_mm.png"
+    },
+    {
+        "merged": "com.tinna.app-merged_res-31:/drawable-mdpi_node_modules_reactnativecountryflag_dist_cjs_flags_cv.png.flat",
+        "source": "com.tinna.app-main-33:/drawable-mdpi/node_modules_reactnativecountryflag_dist_cjs_flags_cv.png"
+    },
+    {
+        "merged": "com.tinna.app-merged_res-31:/drawable-mdpi_node_modules_reactnativecountryflag_dist_cjs_flags_ec.png.flat",
+        "source": "com.tinna.app-main-33:/drawable-mdpi/node_modules_reactnativecountryflag_dist_cjs_flags_ec.png"
+    },
+    {
+        "merged": "com.tinna.app-merged_res-31:/drawable-mdpi_assets_images_slide2.png.flat",
+        "source": "com.tinna.app-main-33:/drawable-mdpi/assets_images_slide2.png"
+    },
+    {
+        "merged": "com.tinna.app-merged_res-31:/drawable-hdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "com.tinna.app-main-33:/drawable-hdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "com.tinna.app-merged_res-31:/drawable-mdpi_node_modules_reactnativecountryflag_dist_cjs_flags_tk.png.flat",
+        "source": "com.tinna.app-main-33:/drawable-mdpi/node_modules_reactnativecountryflag_dist_cjs_flags_tk.png"
+    },
+    {
+        "merged": "com.tinna.app-merged_res-31:/drawable-mdpi_node_modules_reactnativecountryflag_dist_cjs_flags_ps.png.flat",
+        "source": "com.tinna.app-main-33:/drawable-mdpi/node_modules_reactnativecountryflag_dist_cjs_flags_ps.png"
+    },
+    {
+        "merged": "com.tinna.app-merged_res-31:/drawable-mdpi_assets_images_settings.png.flat",
+        "source": "com.tinna.app-main-33:/drawable-mdpi/assets_images_settings.png"
+    },
+    {
+        "merged": "com.tinna.app-merged_res-31:/drawable-mdpi_node_modules_reactnativecountryflag_dist_cjs_flags_kr.png.flat",
+        "source": "com.tinna.app-main-33:/drawable-mdpi/node_modules_reactnativecountryflag_dist_cjs_flags_kr.png"
+    },
+    {
+        "merged": "com.tinna.app-merged_res-31:/drawable-mdpi_node_modules_reactnativecountryflag_dist_cjs_flags_cy.png.flat",
+        "source": "com.tinna.app-main-33:/drawable-mdpi/node_modules_reactnativecountryflag_dist_cjs_flags_cy.png"
+    },
+    {
+        "merged": "com.tinna.app-merged_res-31:/drawable-mdpi_node_modules_reactnativecountryflag_dist_cjs_flags_ch.png.flat",
+        "source": "com.tinna.app-main-33:/drawable-mdpi/node_modules_reactnativecountryflag_dist_cjs_flags_ch.png"
+    },
+    {
+        "merged": "com.tinna.app-merged_res-31:/drawable-mdpi_node_modules_reactnativecountryflag_dist_cjs_flags_tn.png.flat",
+        "source": "com.tinna.app-main-33:/drawable-mdpi/node_modules_reactnativecountryflag_dist_cjs_flags_tn.png"
+    },
+    {
+        "merged": "com.tinna.app-merged_res-31:/drawable-mdpi_node_modules_reactnativecountryflag_dist_cjs_flags_za.png.flat",
+        "source": "com.tinna.app-main-33:/drawable-mdpi/node_modules_reactnativecountryflag_dist_cjs_flags_za.png"
+    },
+    {
+        "merged": "com.tinna.app-merged_res-31:/drawable-mdpi_assets_images_info3.png.flat",
+        "source": "com.tinna.app-main-33:/drawable-mdpi/assets_images_info3.png"
+    },
+    {
+        "merged": "com.tinna.app-merged_res-31:/drawable-mdpi_assets_images_expenses.png.flat",
+        "source": "com.tinna.app-main-33:/drawable-mdpi/assets_images_expenses.png"
+    },
+    {
+        "merged": "com.tinna.app-merged_res-31:/drawable-mdpi_node_modules_reactnativecountryflag_dist_cjs_flags_bv.png.flat",
+        "source": "com.tinna.app-main-33:/drawable-mdpi/node_modules_reactnativecountryflag_dist_cjs_flags_bv.png"
+    },
+    {
+        "merged": "com.tinna.app-merged_res-31:/drawable-mdpi_node_modules_reactnativedropdownselectlist_assets_images_search.png.flat",
+        "source": "com.tinna.app-main-33:/drawable-mdpi/node_modules_reactnativedropdownselectlist_assets_images_search.png"
+    },
+    {
+        "merged": "com.tinna.app-merged_res-31:/drawable-mdpi_node_modules_reactnativecountryflag_dist_cjs_flags_sk.png.flat",
+        "source": "com.tinna.app-main-33:/drawable-mdpi/node_modules_reactnativecountryflag_dist_cjs_flags_sk.png"
+    },
+    {
+        "merged": "com.tinna.app-merged_res-31:/drawable-mdpi_node_modules_reactnativecountryflag_dist_cjs_flags_il.png.flat",
+        "source": "com.tinna.app-main-33:/drawable-mdpi/node_modules_reactnativecountryflag_dist_cjs_flags_il.png"
+    },
+    {
+        "merged": "com.tinna.app-merged_res-31:/drawable-mdpi_assets_images_salesicon.png.flat",
+        "source": "com.tinna.app-main-33:/drawable-mdpi/assets_images_salesicon.png"
+    },
+    {
+        "merged": "com.tinna.app-merged_res-31:/drawable-mdpi_node_modules_reactnativecountryflag_dist_cjs_flags_cl.png.flat",
+        "source": "com.tinna.app-main-33:/drawable-mdpi/node_modules_reactnativecountryflag_dist_cjs_flags_cl.png"
+    },
+    {
+        "merged": "com.tinna.app-merged_res-31:/drawable-mdpi_node_modules_reactnativecountryflag_dist_cjs_flags_gbsct.png.flat",
+        "source": "com.tinna.app-main-33:/drawable-mdpi/node_modules_reactnativecountryflag_dist_cjs_flags_gbsct.png"
+    },
+    {
+        "merged": "com.tinna.app-merged_res-31:/drawable-mdpi_node_modules_reactnativecountryflag_dist_cjs_flags_bn.png.flat",
+        "source": "com.tinna.app-main-33:/drawable-mdpi/node_modules_reactnativecountryflag_dist_cjs_flags_bn.png"
+    },
+    {
+        "merged": "com.tinna.app-merged_res-31:/drawable-mdpi_node_modules_reactnativecountryflag_dist_cjs_flags_na.png.flat",
+        "source": "com.tinna.app-main-33:/drawable-mdpi/node_modules_reactnativecountryflag_dist_cjs_flags_na.png"
+    },
+    {
+        "merged": "com.tinna.app-merged_res-31:/drawable-mdpi_node_modules_reactnativecountryflag_dist_cjs_flags_tw.png.flat",
+        "source": "com.tinna.app-main-33:/drawable-mdpi/node_modules_reactnativecountryflag_dist_cjs_flags_tw.png"
+    },
+    {
+        "merged": "com.tinna.app-merged_res-31:/drawable-mdpi_node_modules_reactnativecountryflag_dist_cjs_flags_kh.png.flat",
+        "source": "com.tinna.app-main-33:/drawable-mdpi/node_modules_reactnativecountryflag_dist_cjs_flags_kh.png"
+    },
+    {
+        "merged": "com.tinna.app-merged_res-31:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "com.tinna.app-main-33:/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.tinna.app-merged_res-31:/drawable-mdpi_assets_images_expense2.png.flat",
+        "source": "com.tinna.app-main-33:/drawable-mdpi/assets_images_expense2.png"
+    },
+    {
+        "merged": "com.tinna.app-merged_res-31:/drawable-mdpi_node_modules_reactnativecountryflag_dist_cjs_flags_mc.png.flat",
+        "source": "com.tinna.app-main-33:/drawable-mdpi/node_modules_reactnativecountryflag_dist_cjs_flags_mc.png"
+    },
+    {
+        "merged": "com.tinna.app-merged_res-31:/drawable-mdpi_node_modules_reactnativecountryflag_dist_cjs_flags_dj.png.flat",
+        "source": "com.tinna.app-main-33:/drawable-mdpi/node_modules_reactnativecountryflag_dist_cjs_flags_dj.png"
+    },
+    {
+        "merged": "com.tinna.app-merged_res-31:/drawable-mdpi_node_modules_reactnativecountryflag_dist_cjs_flags_it.png.flat",
+        "source": "com.tinna.app-main-33:/drawable-mdpi/node_modules_reactnativecountryflag_dist_cjs_flags_it.png"
+    },
+    {
+        "merged": "com.tinna.app-merged_res-31:/drawable-mdpi_node_modules_reactnativecountryflag_dist_cjs_flags_my.png.flat",
+        "source": "com.tinna.app-main-33:/drawable-mdpi/node_modules_reactnativecountryflag_dist_cjs_flags_my.png"
+    },
+    {
+        "merged": "com.tinna.app-merged_res-31:/drawable-mdpi_assets_images_opexpense.png.flat",
+        "source": "com.tinna.app-main-33:/drawable-mdpi/assets_images_opexpense.png"
+    },
+    {
+        "merged": "com.tinna.app-merged_res-31:/drawable-mdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "com.tinna.app-main-33:/drawable-mdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "com.tinna.app-merged_res-31:/drawable-mdpi_node_modules_reactnativecountryflag_dist_cjs_flags_sc.png.flat",
+        "source": "com.tinna.app-main-33:/drawable-mdpi/node_modules_reactnativecountryflag_dist_cjs_flags_sc.png"
+    },
+    {
+        "merged": "com.tinna.app-merged_res-31:/drawable-mdpi_assets_images_inventory2.png.flat",
+        "source": "com.tinna.app-main-33:/drawable-mdpi/assets_images_inventory2.png"
+    },
+    {
+        "merged": "com.tinna.app-merged_res-31:/drawable-mdpi_node_modules_reactnativecountryflag_dist_cjs_flags_pr.png.flat",
+        "source": "com.tinna.app-main-33:/drawable-mdpi/node_modules_reactnativecountryflag_dist_cjs_flags_pr.png"
+    },
+    {
+        "merged": "com.tinna.app-merged_res-31:/drawable-mdpi_assets_images_pending.png.flat",
+        "source": "com.tinna.app-main-33:/drawable-mdpi/assets_images_pending.png"
+    },
+    {
+        "merged": "com.tinna.app-merged_res-31:/drawable-mdpi_node_modules_reactnativecountryflag_dist_cjs_flags_gb.png.flat",
+        "source": "com.tinna.app-main-33:/drawable-mdpi/node_modules_reactnativecountryflag_dist_cjs_flags_gb.png"
+    },
+    {
+        "merged": "com.tinna.app-merged_res-31:/drawable-mdpi_node_modules_reactnativecountryflag_dist_cjs_flags_aw.png.flat",
+        "source": "com.tinna.app-main-33:/drawable-mdpi/node_modules_reactnativecountryflag_dist_cjs_flags_aw.png"
+    },
+    {
+        "merged": "com.tinna.app-merged_res-31:/drawable-mdpi_node_modules_reactnativecountryflag_dist_cjs_flags_im.png.flat",
+        "source": "com.tinna.app-main-33:/drawable-mdpi/node_modules_reactnativecountryflag_dist_cjs_flags_im.png"
+    },
+    {
+        "merged": "com.tinna.app-merged_res-31:/drawable-mdpi_node_modules_reactnativecountryflag_dist_cjs_flags_sj.png.flat",
+        "source": "com.tinna.app-main-33:/drawable-mdpi/node_modules_reactnativecountryflag_dist_cjs_flags_sj.png"
+    },
+    {
+        "merged": "com.tinna.app-merged_res-31:/drawable-mdpi_node_modules_reactnativecountryflag_dist_cjs_flags_kg.png.flat",
+        "source": "com.tinna.app-main-33:/drawable-mdpi/node_modules_reactnativecountryflag_dist_cjs_flags_kg.png"
+    },
+    {
+        "merged": "com.tinna.app-merged_res-31:/drawable-mdpi_node_modules_reactnativecountryflag_dist_cjs_flags_th.png.flat",
+        "source": "com.tinna.app-main-33:/drawable-mdpi/node_modules_reactnativecountryflag_dist_cjs_flags_th.png"
+    },
+    {
+        "merged": "com.tinna.app-merged_res-31:/drawable-mdpi_assets_images_report2.png.flat",
+        "source": "com.tinna.app-main-33:/drawable-mdpi/assets_images_report2.png"
+    },
+    {
+        "merged": "com.tinna.app-merged_res-31:/drawable-mdpi_assets_images_income.png.flat",
+        "source": "com.tinna.app-main-33:/drawable-mdpi/assets_images_income.png"
+    },
+    {
+        "merged": "com.tinna.app-merged_res-31:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "com.tinna.app-main-33:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.tinna.app-merged_res-31:/drawable-mdpi_node_modules_reactnativecountryflag_dist_cjs_flags_hu.png.flat",
+        "source": "com.tinna.app-main-33:/drawable-mdpi/node_modules_reactnativecountryflag_dist_cjs_flags_hu.png"
+    },
+    {
+        "merged": "com.tinna.app-merged_res-31:/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "com.tinna.app-main-33:/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.tinna.app-merged_res-31:/drawable-mdpi_assets_images_group.png.flat",
+        "source": "com.tinna.app-main-33:/drawable-mdpi/assets_images_group.png"
+    },
+    {
+        "merged": "com.tinna.app-merged_res-31:/drawable-mdpi_node_modules_reactnativecountryflag_dist_cjs_flags_eh.png.flat",
+        "source": "com.tinna.app-main-33:/drawable-mdpi/node_modules_reactnativecountryflag_dist_cjs_flags_eh.png"
+    },
+    {
+        "merged": "com.tinna.app-merged_res-31:/drawable-mdpi_node_modules_reactnativecountryflag_dist_cjs_flags_gy.png.flat",
+        "source": "com.tinna.app-main-33:/drawable-mdpi/node_modules_reactnativecountryflag_dist_cjs_flags_gy.png"
+    },
+    {
+        "merged": "com.tinna.app-merged_res-31:/drawable-mdpi_node_modules_reactnativecountryflag_dist_cjs_flags_sz.png.flat",
+        "source": "com.tinna.app-main-33:/drawable-mdpi/node_modules_reactnativecountryflag_dist_cjs_flags_sz.png"
+    },
+    {
+        "merged": "com.tinna.app-merged_res-31:/drawable-mdpi_node_modules_reactnativecountryflag_dist_cjs_flags_fk.png.flat",
+        "source": "com.tinna.app-main-33:/drawable-mdpi/node_modules_reactnativecountryflag_dist_cjs_flags_fk.png"
+    },
+    {
+        "merged": "com.tinna.app-merged_res-31:/drawable-mdpi_node_modules_reactnativecountryflag_dist_cjs_flags_pk.png.flat",
+        "source": "com.tinna.app-main-33:/drawable-mdpi/node_modules_reactnativecountryflag_dist_cjs_flags_pk.png"
+    },
+    {
+        "merged": "com.tinna.app-merged_res-31:/drawable-mdpi_node_modules_reactnativecountryflag_dist_cjs_flags_ki.png.flat",
+        "source": "com.tinna.app-main-33:/drawable-mdpi/node_modules_reactnativecountryflag_dist_cjs_flags_ki.png"
+    },
+    {
+        "merged": "com.tinna.app-merged_res-31:/drawable-mdpi_assets_images_ebit.png.flat",
+        "source": "com.tinna.app-main-33:/drawable-mdpi/assets_images_ebit.png"
+    },
+    {
+        "merged": "com.tinna.app-merged_res-31:/drawable-mdpi_node_modules_reactnativecountryflag_dist_cjs_flags_cf.png.flat",
+        "source": "com.tinna.app-main-33:/drawable-mdpi/node_modules_reactnativecountryflag_dist_cjs_flags_cf.png"
+    },
+    {
+        "merged": "com.tinna.app-merged_res-31:/drawable-mdpi_node_modules_reactnativecountryflag_dist_cjs_flags_bt.png.flat",
+        "source": "com.tinna.app-main-33:/drawable-mdpi/node_modules_reactnativecountryflag_dist_cjs_flags_bt.png"
+    },
+    {
+        "merged": "com.tinna.app-merged_res-31:/drawable-mdpi_node_modules_reactnativecountryflag_dist_cjs_flags_aq.png.flat",
+        "source": "com.tinna.app-main-33:/drawable-mdpi/node_modules_reactnativecountryflag_dist_cjs_flags_aq.png"
+    },
+    {
+        "merged": "com.tinna.app-merged_res-31:/drawable-mdpi_node_modules_reactnativecountryflag_dist_cjs_flags_cm.png.flat",
+        "source": "com.tinna.app-main-33:/drawable-mdpi/node_modules_reactnativecountryflag_dist_cjs_flags_cm.png"
+    },
+    {
+        "merged": "com.tinna.app-merged_res-31:/drawable-mdpi_node_modules_reactnativecountryflag_dist_cjs_flags_gr.png.flat",
+        "source": "com.tinna.app-main-33:/drawable-mdpi/node_modules_reactnativecountryflag_dist_cjs_flags_gr.png"
+    },
+    {
+        "merged": "com.tinna.app-merged_res-31:/drawable-mdpi_node_modules_reactnativecountryflag_dist_cjs_flags_ga.png.flat",
+        "source": "com.tinna.app-main-33:/drawable-mdpi/node_modules_reactnativecountryflag_dist_cjs_flags_ga.png"
+    },
+    {
+        "merged": "com.tinna.app-merged_res-31:/drawable-mdpi_node_modules_reactnativecountryflag_dist_cjs_flags_ax.png.flat",
+        "source": "com.tinna.app-main-33:/drawable-mdpi/node_modules_reactnativecountryflag_dist_cjs_flags_ax.png"
+    },
+    {
+        "merged": "com.tinna.app-merged_res-31:/drawable-mdpi_node_modules_reactnativecountryflag_dist_cjs_flags_do.png.flat",
+        "source": "com.tinna.app-main-33:/drawable-mdpi/node_modules_reactnativecountryflag_dist_cjs_flags_do.png"
+    },
+    {
+        "merged": "com.tinna.app-merged_res-31:/drawable-mdpi_node_modules_reactnativecountryflag_dist_cjs_flags_pw.png.flat",
+        "source": "com.tinna.app-main-33:/drawable-mdpi/node_modules_reactnativecountryflag_dist_cjs_flags_pw.png"
+    },
+    {
+        "merged": "com.tinna.app-merged_res-31:/drawable-mdpi_assets_images_cogs.png.flat",
+        "source": "com.tinna.app-main-33:/drawable-mdpi/assets_images_cogs.png"
+    },
+    {
+        "merged": "com.tinna.app-merged_res-31:/drawable-mdpi_node_modules_reactnativecountryflag_dist_cjs_flags_si.png.flat",
+        "source": "com.tinna.app-main-33:/drawable-mdpi/node_modules_reactnativecountryflag_dist_cjs_flags_si.png"
+    },
+    {
+        "merged": "com.tinna.app-merged_res-31:/drawable-mdpi_node_modules_reactnativecountryflag_dist_cjs_flags_gh.png.flat",
+        "source": "com.tinna.app-main-33:/drawable-mdpi/node_modules_reactnativecountryflag_dist_cjs_flags_gh.png"
+    },
+    {
+        "merged": "com.tinna.app-merged_res-31:/drawable-mdpi_node_modules_reactnativecountryflag_dist_cjs_flags_lk.png.flat",
+        "source": "com.tinna.app-main-33:/drawable-mdpi/node_modules_reactnativecountryflag_dist_cjs_flags_lk.png"
+    },
+    {
+        "merged": "com.tinna.app-merged_res-31:/drawable-mdpi_node_modules_reactnativecountryflag_dist_cjs_flags_pl.png.flat",
+        "source": "com.tinna.app-main-33:/drawable-mdpi/node_modules_reactnativecountryflag_dist_cjs_flags_pl.png"
+    },
+    {
+        "merged": "com.tinna.app-merged_res-31:/drawable-mdpi_assets_images_info4.png.flat",
+        "source": "com.tinna.app-main-33:/drawable-mdpi/assets_images_info4.png"
+    },
+    {
+        "merged": "com.tinna.app-merged_res-31:/drawable-mdpi_node_modules_reactnativecountryflag_dist_cjs_flags_in.png.flat",
+        "source": "com.tinna.app-main-33:/drawable-mdpi/node_modules_reactnativecountryflag_dist_cjs_flags_in.png"
+    },
+    {
+        "merged": "com.tinna.app-merged_res-31:/drawable-mdpi_node_modules_reactnativecountryflag_dist_cjs_flags_nf.png.flat",
+        "source": "com.tinna.app-main-33:/drawable-mdpi/node_modules_reactnativecountryflag_dist_cjs_flags_nf.png"
+    },
+    {
+        "merged": "com.tinna.app-merged_res-31:/drawable-xxhdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "com.tinna.app-main-33:/drawable-xxhdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "com.tinna.app-merged_res-31:/drawable-mdpi_node_modules_reactnativecountryflag_dist_cjs_flags_cx.png.flat",
+        "source": "com.tinna.app-main-33:/drawable-mdpi/node_modules_reactnativecountryflag_dist_cjs_flags_cx.png"
+    },
+    {
+        "merged": "com.tinna.app-merged_res-31:/drawable-mdpi_node_modules_reactnativecountryflag_dist_cjs_flags_lv.png.flat",
+        "source": "com.tinna.app-main-33:/drawable-mdpi/node_modules_reactnativecountryflag_dist_cjs_flags_lv.png"
+    },
+    {
+        "merged": "com.tinna.app-merged_res-31:/drawable-mdpi_node_modules_reactnativecountryflag_dist_cjs_flags_mz.png.flat",
+        "source": "com.tinna.app-main-33:/drawable-mdpi/node_modules_reactnativecountryflag_dist_cjs_flags_mz.png"
+    },
+    {
+        "merged": "com.tinna.app-merged_res-31:/drawable-mdpi_node_modules_reactnativecountryflag_dist_cjs_flags_mh.png.flat",
+        "source": "com.tinna.app-main-33:/drawable-mdpi/node_modules_reactnativecountryflag_dist_cjs_flags_mh.png"
+    },
+    {
+        "merged": "com.tinna.app-merged_res-31:/drawable-mdpi_node_modules_reactnativecountryflag_dist_cjs_flags_gbwls.png.flat",
+        "source": "com.tinna.app-main-33:/drawable-mdpi/node_modules_reactnativecountryflag_dist_cjs_flags_gbwls.png"
+    },
+    {
+        "merged": "com.tinna.app-merged_res-31:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.tinna.app-main-33:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.tinna.app-merged_res-31:/drawable-mdpi_node_modules_reactnativecountryflag_dist_cjs_flags_pa.png.flat",
+        "source": "com.tinna.app-main-33:/drawable-mdpi/node_modules_reactnativecountryflag_dist_cjs_flags_pa.png"
+    },
+    {
+        "merged": "com.tinna.app-merged_res-31:/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "com.tinna.app-main-33:/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.tinna.app-merged_res-31:/drawable-mdpi_assets_images_dangericon.png.flat",
+        "source": "com.tinna.app-main-33:/drawable-mdpi/assets_images_dangericon.png"
+    },
+    {
+        "merged": "com.tinna.app-merged_res-31:/drawable-mdpi_node_modules_reactnativecountryflag_dist_cjs_flags_jp.png.flat",
+        "source": "com.tinna.app-main-33:/drawable-mdpi/node_modules_reactnativecountryflag_dist_cjs_flags_jp.png"
+    },
+    {
+        "merged": "com.tinna.app-merged_res-31:/drawable-mdpi_node_modules_reactnativecountryflag_dist_cjs_flags_gs.png.flat",
+        "source": "com.tinna.app-main-33:/drawable-mdpi/node_modules_reactnativecountryflag_dist_cjs_flags_gs.png"
+    },
+    {
+        "merged": "com.tinna.app-merged_res-31:/drawable-mdpi_node_modules_reactnativecountryflag_dist_cjs_flags_tr.png.flat",
+        "source": "com.tinna.app-main-33:/drawable-mdpi/node_modules_reactnativecountryflag_dist_cjs_flags_tr.png"
+    },
+    {
+        "merged": "com.tinna.app-merged_res-31:/drawable-mdpi_node_modules_reactnativecountryflag_dist_cjs_flags_bi.png.flat",
+        "source": "com.tinna.app-main-33:/drawable-mdpi/node_modules_reactnativecountryflag_dist_cjs_flags_bi.png"
+    },
+    {
+        "merged": "com.tinna.app-merged_res-31:/drawable-mdpi_node_modules_reactnativecountryflag_dist_cjs_flags_bz.png.flat",
+        "source": "com.tinna.app-main-33:/drawable-mdpi/node_modules_reactnativecountryflag_dist_cjs_flags_bz.png"
+    },
+    {
+        "merged": "com.tinna.app-merged_res-31:/drawable-mdpi_node_modules_reactnativecountryflag_dist_cjs_flags_ar.png.flat",
+        "source": "com.tinna.app-main-33:/drawable-mdpi/node_modules_reactnativecountryflag_dist_cjs_flags_ar.png"
+    },
+    {
+        "merged": "com.tinna.app-merged_res-31:/drawable-mdpi_node_modules_reactnativecountryflag_dist_cjs_flags_tm.png.flat",
+        "source": "com.tinna.app-main-33:/drawable-mdpi/node_modules_reactnativecountryflag_dist_cjs_flags_tm.png"
+    },
+    {
+        "merged": "com.tinna.app-merged_res-31:/drawable-mdpi_node_modules_reactnativecountryflag_dist_cjs_flags_cg.png.flat",
+        "source": "com.tinna.app-main-33:/drawable-mdpi/node_modules_reactnativecountryflag_dist_cjs_flags_cg.png"
+    },
+    {
+        "merged": "com.tinna.app-merged_res-31:/drawable-mdpi_node_modules_reactnativecountryflag_dist_cjs_flags_pf.png.flat",
+        "source": "com.tinna.app-main-33:/drawable-mdpi/node_modules_reactnativecountryflag_dist_cjs_flags_pf.png"
+    },
+    {
+        "merged": "com.tinna.app-merged_res-31:/drawable-mdpi_node_modules_reactnativecountryflag_dist_cjs_flags_kn.png.flat",
+        "source": "com.tinna.app-main-33:/drawable-mdpi/node_modules_reactnativecountryflag_dist_cjs_flags_kn.png"
+    },
+    {
+        "merged": "com.tinna.app-merged_res-31:/drawable-mdpi_node_modules_reactnativecountryflag_dist_cjs_flags_al.png.flat",
+        "source": "com.tinna.app-main-33:/drawable-mdpi/node_modules_reactnativecountryflag_dist_cjs_flags_al.png"
+    },
+    {
+        "merged": "com.tinna.app-merged_res-31:/drawable-mdpi_node_modules_reactnativecountryflag_dist_cjs_flags_so.png.flat",
+        "source": "com.tinna.app-main-33:/drawable-mdpi/node_modules_reactnativecountryflag_dist_cjs_flags_so.png"
+    },
+    {
+        "merged": "com.tinna.app-merged_res-31:/drawable-mdpi_assets_images_investingcashflow.png.flat",
+        "source": "com.tinna.app-main-33:/drawable-mdpi/assets_images_investingcashflow.png"
+    },
+    {
+        "merged": "com.tinna.app-merged_res-31:/drawable-mdpi_node_modules_reactnativecountryflag_dist_cjs_flags_gbnir.png.flat",
+        "source": "com.tinna.app-main-33:/drawable-mdpi/node_modules_reactnativecountryflag_dist_cjs_flags_gbnir.png"
+    },
+    {
+        "merged": "com.tinna.app-merged_res-31:/drawable-mdpi_node_modules_reactnativecountryflag_dist_cjs_flags_ky.png.flat",
+        "source": "com.tinna.app-main-33:/drawable-mdpi/node_modules_reactnativecountryflag_dist_cjs_flags_ky.png"
+    },
+    {
+        "merged": "com.tinna.app-merged_res-31:/drawable-mdpi_node_modules_reactnativecountryflag_dist_cjs_flags_mt.png.flat",
+        "source": "com.tinna.app-main-33:/drawable-mdpi/node_modules_reactnativecountryflag_dist_cjs_flags_mt.png"
+    },
+    {
+        "merged": "com.tinna.app-merged_res-31:/drawable-mdpi_node_modules_reactnativecountryflag_dist_cjs_flags_sd.png.flat",
+        "source": "com.tinna.app-main-33:/drawable-mdpi/node_modules_reactnativecountryflag_dist_cjs_flags_sd.png"
+    },
+    {
+        "merged": "com.tinna.app-merged_res-31:/drawable-mdpi_node_modules_reactnativecountryflag_dist_cjs_flags_gm.png.flat",
+        "source": "com.tinna.app-main-33:/drawable-mdpi/node_modules_reactnativecountryflag_dist_cjs_flags_gm.png"
+    },
+    {
+        "merged": "com.tinna.app-merged_res-31:/drawable-mdpi_node_modules_reactnativecountryflag_dist_cjs_flags_tg.png.flat",
+        "source": "com.tinna.app-main-33:/drawable-mdpi/node_modules_reactnativecountryflag_dist_cjs_flags_tg.png"
+    },
+    {
+        "merged": "com.tinna.app-merged_res-31:/drawable-mdpi_node_modules_reactnativecountryflag_dist_cjs_flags_je.png.flat",
+        "source": "com.tinna.app-main-33:/drawable-mdpi/node_modules_reactnativecountryflag_dist_cjs_flags_je.png"
+    },
+    {
+        "merged": "com.tinna.app-merged_res-31:/drawable-mdpi_assets_images_salesicon2.png.flat",
+        "source": "com.tinna.app-main-33:/drawable-mdpi/assets_images_salesicon2.png"
+    },
+    {
+        "merged": "com.tinna.app-merged_res-31:/drawable-mdpi_node_modules_reactnativecountryflag_dist_cjs_flags_is.png.flat",
+        "source": "com.tinna.app-main-33:/drawable-mdpi/node_modules_reactnativecountryflag_dist_cjs_flags_is.png"
+    },
+    {
+        "merged": "com.tinna.app-merged_res-31:/drawable-mdpi_node_modules_reactnativecountryflag_dist_cjs_flags_gbeng.png.flat",
+        "source": "com.tinna.app-main-33:/drawable-mdpi/node_modules_reactnativecountryflag_dist_cjs_flags_gbeng.png"
+    },
+    {
+        "merged": "com.tinna.app-merged_res-31:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.tinna.app-main-33:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.tinna.app-merged_res-31:/drawable-mdpi_node_modules_reactnativecountryflag_dist_cjs_flags_fj.png.flat",
+        "source": "com.tinna.app-main-33:/drawable-mdpi/node_modules_reactnativecountryflag_dist_cjs_flags_fj.png"
+    },
+    {
+        "merged": "com.tinna.app-merged_res-31:/drawable-mdpi_node_modules_reactnativecountryflag_dist_cjs_flags_bo.png.flat",
+        "source": "com.tinna.app-main-33:/drawable-mdpi/node_modules_reactnativecountryflag_dist_cjs_flags_bo.png"
+    },
+    {
+        "merged": "com.tinna.app-merged_res-31:/drawable-mdpi_node_modules_reactnativecountryflag_dist_cjs_flags_ye.png.flat",
+        "source": "com.tinna.app-main-33:/drawable-mdpi/node_modules_reactnativecountryflag_dist_cjs_flags_ye.png"
+    },
+    {
+        "merged": "com.tinna.app-merged_res-31:/drawable-mdpi_node_modules_reactnativecountryflag_dist_cjs_flags_ca.png.flat",
+        "source": "com.tinna.app-main-33:/drawable-mdpi/node_modules_reactnativecountryflag_dist_cjs_flags_ca.png"
+    },
+    {
+        "merged": "com.tinna.app-merged_res-31:/drawable-mdpi_node_modules_reactnativecountryflag_dist_cjs_flags_eg.png.flat",
+        "source": "com.tinna.app-main-33:/drawable-mdpi/node_modules_reactnativecountryflag_dist_cjs_flags_eg.png"
+    },
+    {
+        "merged": "com.tinna.app-merged_res-31:/drawable-mdpi_node_modules_reactnativecountryflag_dist_cjs_flags_cr.png.flat",
+        "source": "com.tinna.app-main-33:/drawable-mdpi/node_modules_reactnativecountryflag_dist_cjs_flags_cr.png"
+    },
+    {
+        "merged": "com.tinna.app-merged_res-31:/drawable-mdpi_node_modules_reactnativecountryflag_dist_cjs_flags_li.png.flat",
+        "source": "com.tinna.app-main-33:/drawable-mdpi/node_modules_reactnativecountryflag_dist_cjs_flags_li.png"
+    },
+    {
+        "merged": "com.tinna.app-merged_res-31:/drawable-mdpi_node_modules_reactnativecountryflag_dist_cjs_flags_mu.png.flat",
+        "source": "com.tinna.app-main-33:/drawable-mdpi/node_modules_reactnativecountryflag_dist_cjs_flags_mu.png"
+    },
+    {
+        "merged": "com.tinna.app-merged_res-31:/drawable-mdpi_assets_images_tsirt.png.flat",
+        "source": "com.tinna.app-main-33:/drawable-mdpi/assets_images_tsirt.png"
+    },
+    {
+        "merged": "com.tinna.app-merged_res-31:/drawable-mdpi_assets_images_latest.png.flat",
+        "source": "com.tinna.app-main-33:/drawable-mdpi/assets_images_latest.png"
+    },
+    {
+        "merged": "com.tinna.app-merged_res-31:/drawable-mdpi_node_modules_reactnativecountryflag_dist_cjs_flags_at.png.flat",
+        "source": "com.tinna.app-main-33:/drawable-mdpi/node_modules_reactnativecountryflag_dist_cjs_flags_at.png"
+    },
+    {
+        "merged": "com.tinna.app-merged_res-31:/drawable-mdpi_node_modules_reactnativecountryflag_dist_cjs_flags_sg.png.flat",
+        "source": "com.tinna.app-main-33:/drawable-mdpi/node_modules_reactnativecountryflag_dist_cjs_flags_sg.png"
+    },
+    {
+        "merged": "com.tinna.app-merged_res-31:/drawable-mdpi_node_modules_reactnativecountryflag_dist_cjs_flags_br.png.flat",
+        "source": "com.tinna.app-main-33:/drawable-mdpi/node_modules_reactnativecountryflag_dist_cjs_flags_br.png"
+    },
+    {
+        "merged": "com.tinna.app-merged_res-31:/drawable-mdpi_node_modules_reactnativecountryflag_dist_cjs_flags_hr.png.flat",
+        "source": "com.tinna.app-main-33:/drawable-mdpi/node_modules_reactnativecountryflag_dist_cjs_flags_hr.png"
+    },
+    {
+        "merged": "com.tinna.app-merged_res-31:/drawable_rn_edit_text_material.xml.flat",
+        "source": "com.tinna.app-main-33:/drawable/rn_edit_text_material.xml"
+    },
+    {
+        "merged": "com.tinna.app-merged_res-31:/drawable-mdpi_node_modules_reactnativecountryflag_dist_cjs_flags_dm.png.flat",
+        "source": "com.tinna.app-main-33:/drawable-mdpi/node_modules_reactnativecountryflag_dist_cjs_flags_dm.png"
+    },
+    {
+        "merged": "com.tinna.app-merged_res-31:/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "com.tinna.app-main-33:/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.tinna.app-merged_res-31:/drawable-mdpi_node_modules_reactnativecountryflag_dist_cjs_flags_kz.png.flat",
+        "source": "com.tinna.app-main-33:/drawable-mdpi/node_modules_reactnativecountryflag_dist_cjs_flags_kz.png"
+    },
+    {
+        "merged": "com.tinna.app-merged_res-31:/drawable-mdpi_node_modules_reactnativecountryflag_dist_cjs_flags_fi.png.flat",
+        "source": "com.tinna.app-main-33:/drawable-mdpi/node_modules_reactnativecountryflag_dist_cjs_flags_fi.png"
+    },
+    {
+        "merged": "com.tinna.app-merged_res-31:/drawable-mdpi_node_modules_reactnativecountryflag_dist_cjs_flags_vn.png.flat",
+        "source": "com.tinna.app-main-33:/drawable-mdpi/node_modules_reactnativecountryflag_dist_cjs_flags_vn.png"
+    },
+    {
+        "merged": "com.tinna.app-merged_res-31:/drawable-mdpi_node_modules_reactnativecountryflag_dist_cjs_flags_af.png.flat",
+        "source": "com.tinna.app-main-33:/drawable-mdpi/node_modules_reactnativecountryflag_dist_cjs_flags_af.png"
+    },
+    {
+        "merged": "com.tinna.app-merged_res-31:/drawable-mdpi_node_modules_reactnativecountryflag_dist_cjs_flags_mf.png.flat",
+        "source": "com.tinna.app-main-33:/drawable-mdpi/node_modules_reactnativecountryflag_dist_cjs_flags_mf.png"
+    },
+    {
+        "merged": "com.tinna.app-merged_res-31:/drawable-mdpi_node_modules_reactnativecountryflag_dist_cjs_flags_gg.png.flat",
+        "source": "com.tinna.app-main-33:/drawable-mdpi/node_modules_reactnativecountryflag_dist_cjs_flags_gg.png"
+    },
+    {
+        "merged": "com.tinna.app-merged_res-31:/drawable-mdpi_assets_images_customerdebts.png.flat",
+        "source": "com.tinna.app-main-33:/drawable-mdpi/assets_images_customerdebts.png"
+    },
+    {
+        "merged": "com.tinna.app-merged_res-31:/drawable-mdpi_node_modules_reactnativecountryflag_dist_cjs_flags_bd.png.flat",
+        "source": "com.tinna.app-main-33:/drawable-mdpi/node_modules_reactnativecountryflag_dist_cjs_flags_bd.png"
+    },
+    {
+        "merged": "com.tinna.app-merged_res-31:/drawable-mdpi_node_modules_reactnativecountryflag_dist_cjs_flags_sv.png.flat",
+        "source": "com.tinna.app-main-33:/drawable-mdpi/node_modules_reactnativecountryflag_dist_cjs_flags_sv.png"
+    },
+    {
+        "merged": "com.tinna.app-merged_res-31:/drawable-mdpi_node_modules_reactnativecountryflag_dist_cjs_flags_au.png.flat",
+        "source": "com.tinna.app-main-33:/drawable-mdpi/node_modules_reactnativecountryflag_dist_cjs_flags_au.png"
+    },
+    {
+        "merged": "com.tinna.app-merged_res-31:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "com.tinna.app-main-33:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.tinna.app-merged_res-31:/drawable-mdpi_node_modules_reactnativecountryflag_dist_cjs_flags_mv.png.flat",
+        "source": "com.tinna.app-main-33:/drawable-mdpi/node_modules_reactnativecountryflag_dist_cjs_flags_mv.png"
+    },
+    {
+        "merged": "com.tinna.app-merged_res-31:/drawable-mdpi_node_modules_reactnativecountryflag_dist_cjs_flags_rw.png.flat",
+        "source": "com.tinna.app-main-33:/drawable-mdpi/node_modules_reactnativecountryflag_dist_cjs_flags_rw.png"
+    },
+    {
+        "merged": "com.tinna.app-merged_res-31:/drawable-mdpi_node_modules_reactnativecountryflag_dist_cjs_flags_va.png.flat",
+        "source": "com.tinna.app-main-33:/drawable-mdpi/node_modules_reactnativecountryflag_dist_cjs_flags_va.png"
+    },
+    {
+        "merged": "com.tinna.app-merged_res-31:/drawable-mdpi_node_modules_reactnativecountryflag_dist_cjs_flags_bq.png.flat",
+        "source": "com.tinna.app-main-33:/drawable-mdpi/node_modules_reactnativecountryflag_dist_cjs_flags_bq.png"
+    },
+    {
+        "merged": "com.tinna.app-merged_res-31:/drawable-mdpi_node_modules_reactnativecountryflag_dist_cjs_flags_nr.png.flat",
+        "source": "com.tinna.app-main-33:/drawable-mdpi/node_modules_reactnativecountryflag_dist_cjs_flags_nr.png"
+    },
+    {
+        "merged": "com.tinna.app-merged_res-31:/drawable-mdpi_node_modules_reactnativecountryflag_dist_cjs_flags_tf.png.flat",
+        "source": "com.tinna.app-main-33:/drawable-mdpi/node_modules_reactnativecountryflag_dist_cjs_flags_tf.png"
+    },
+    {
+        "merged": "com.tinna.app-merged_res-31:/drawable-mdpi_node_modules_reactnativecountryflag_dist_cjs_flags_xk.png.flat",
+        "source": "com.tinna.app-main-33:/drawable-mdpi/node_modules_reactnativecountryflag_dist_cjs_flags_xk.png"
+    },
+    {
+        "merged": "com.tinna.app-merged_res-31:/drawable-mdpi_node_modules_reactnativecountryflag_dist_cjs_flags_ne.png.flat",
+        "source": "com.tinna.app-main-33:/drawable-mdpi/node_modules_reactnativecountryflag_dist_cjs_flags_ne.png"
+    },
+    {
+        "merged": "com.tinna.app-merged_res-31:/drawable-mdpi_assets_images_inventory.png.flat",
+        "source": "com.tinna.app-main-33:/drawable-mdpi/assets_images_inventory.png"
+    },
+    {
+        "merged": "com.tinna.app-merged_res-31:/drawable-mdpi_node_modules_reactnativecountryflag_dist_cjs_flags_gu.png.flat",
+        "source": "com.tinna.app-main-33:/drawable-mdpi/node_modules_reactnativecountryflag_dist_cjs_flags_gu.png"
+    },
+    {
+        "merged": "com.tinna.app-merged_res-31:/drawable-mdpi_node_modules_reactnativecountryflag_dist_cjs_flags_jm.png.flat",
+        "source": "com.tinna.app-main-33:/drawable-mdpi/node_modules_reactnativecountryflag_dist_cjs_flags_jm.png"
+    },
+    {
+        "merged": "com.tinna.app-merged_res-31:/drawable-mdpi_node_modules_reactnativecountryflag_dist_cjs_flags_dz.png.flat",
+        "source": "com.tinna.app-main-33:/drawable-mdpi/node_modules_reactnativecountryflag_dist_cjs_flags_dz.png"
+    },
+    {
+        "merged": "com.tinna.app-merged_res-31:/drawable-mdpi_node_modules_reactnativecountryflag_dist_cjs_flags_iq.png.flat",
+        "source": "com.tinna.app-main-33:/drawable-mdpi/node_modules_reactnativecountryflag_dist_cjs_flags_iq.png"
+    },
+    {
+        "merged": "com.tinna.app-merged_res-31:/drawable-mdpi_node_modules_reactnativecountryflag_dist_cjs_flags_ag.png.flat",
+        "source": "com.tinna.app-main-33:/drawable-mdpi/node_modules_reactnativecountryflag_dist_cjs_flags_ag.png"
+    },
+    {
+        "merged": "com.tinna.app-merged_res-31:/drawable-mdpi_node_modules_reactnativecountryflag_dist_cjs_flags_pn.png.flat",
+        "source": "com.tinna.app-main-33:/drawable-mdpi/node_modules_reactnativecountryflag_dist_cjs_flags_pn.png"
+    },
+    {
+        "merged": "com.tinna.app-merged_res-31:/drawable-mdpi_node_modules_reactnativecountryflag_dist_cjs_flags_ht.png.flat",
+        "source": "com.tinna.app-main-33:/drawable-mdpi/node_modules_reactnativecountryflag_dist_cjs_flags_ht.png"
+    },
+    {
+        "merged": "com.tinna.app-merged_res-31:/drawable-mdpi_node_modules_reactnativecountryflag_dist_cjs_flags_tc.png.flat",
+        "source": "com.tinna.app-main-33:/drawable-mdpi/node_modules_reactnativecountryflag_dist_cjs_flags_tc.png"
+    },
+    {
+        "merged": "com.tinna.app-merged_res-31:/drawable-mdpi_node_modules_reactnativecountryflag_dist_cjs_flags_km.png.flat",
+        "source": "com.tinna.app-main-33:/drawable-mdpi/node_modules_reactnativecountryflag_dist_cjs_flags_km.png"
+    },
+    {
+        "merged": "com.tinna.app-merged_res-31:/drawable-mdpi_node_modules_reactnativecountryflag_dist_cjs_flags_cc.png.flat",
+        "source": "com.tinna.app-main-33:/drawable-mdpi/node_modules_reactnativecountryflag_dist_cjs_flags_cc.png"
+    },
+    {
+        "merged": "com.tinna.app-merged_res-31:/drawable-mdpi_node_modules_reactnativecountryflag_dist_cjs_flags_yt.png.flat",
+        "source": "com.tinna.app-main-33:/drawable-mdpi/node_modules_reactnativecountryflag_dist_cjs_flags_yt.png"
+    },
+    {
+        "merged": "com.tinna.app-merged_res-31:/drawable-mdpi_node_modules_reactnativecountryflag_dist_cjs_flags_ms.png.flat",
+        "source": "com.tinna.app-main-33:/drawable-mdpi/node_modules_reactnativecountryflag_dist_cjs_flags_ms.png"
+    },
+    {
+        "merged": "com.tinna.app-merged_res-31:/drawable-mdpi_node_modules_reactnativecountryflag_dist_cjs_flags_st.png.flat",
+        "source": "com.tinna.app-main-33:/drawable-mdpi/node_modules_reactnativecountryflag_dist_cjs_flags_st.png"
+    },
+    {
+        "merged": "com.tinna.app-merged_res-31:/drawable-mdpi_node_modules_reactnativecountryflag_dist_cjs_flags_bb.png.flat",
+        "source": "com.tinna.app-main-33:/drawable-mdpi/node_modules_reactnativecountryflag_dist_cjs_flags_bb.png"
+    },
+    {
+        "merged": "com.tinna.app-merged_res-31:/drawable-mdpi_assets_images_cashflow.png.flat",
+        "source": "com.tinna.app-main-33:/drawable-mdpi/assets_images_cashflow.png"
+    },
+    {
+        "merged": "com.tinna.app-merged_res-31:/drawable-mdpi_node_modules_reactnativecountryflag_dist_cjs_flags_nu.png.flat",
+        "source": "com.tinna.app-main-33:/drawable-mdpi/node_modules_reactnativecountryflag_dist_cjs_flags_nu.png"
+    },
+    {
+        "merged": "com.tinna.app-merged_res-31:/drawable-mdpi_node_modules_reactnativecountryflag_dist_cjs_flags_cn.png.flat",
+        "source": "com.tinna.app-main-33:/drawable-mdpi/node_modules_reactnativecountryflag_dist_cjs_flags_cn.png"
+    },
+    {
+        "merged": "com.tinna.app-merged_res-31:/drawable-mdpi_node_modules_reactnativecountryflag_dist_cjs_flags_pm.png.flat",
+        "source": "com.tinna.app-main-33:/drawable-mdpi/node_modules_reactnativecountryflag_dist_cjs_flags_pm.png"
+    },
+    {
+        "merged": "com.tinna.app-merged_res-31:/drawable-mdpi_node_modules_reactnativecountryflag_dist_cjs_flags_ir.png.flat",
+        "source": "com.tinna.app-main-33:/drawable-mdpi/node_modules_reactnativecountryflag_dist_cjs_flags_ir.png"
+    },
+    {
+        "merged": "com.tinna.app-merged_res-31:/drawable-mdpi_assets_images_danger.png.flat",
+        "source": "com.tinna.app-main-33:/drawable-mdpi/assets_images_danger.png"
+    },
+    {
+        "merged": "com.tinna.app-merged_res-31:/drawable-mdpi_node_modules_reactnativecountryflag_dist_cjs_flags_se.png.flat",
+        "source": "com.tinna.app-main-33:/drawable-mdpi/node_modules_reactnativecountryflag_dist_cjs_flags_se.png"
+    },
+    {
+        "merged": "com.tinna.app-merged_res-31:/drawable-mdpi_node_modules_reactnativecountryflag_dist_cjs_flags_md.png.flat",
+        "source": "com.tinna.app-main-33:/drawable-mdpi/node_modules_reactnativecountryflag_dist_cjs_flags_md.png"
+    },
+    {
+        "merged": "com.tinna.app-merged_res-31:/drawable-mdpi_node_modules_reactnativecountryflag_dist_cjs_flags_np.png.flat",
+        "source": "com.tinna.app-main-33:/drawable-mdpi/node_modules_reactnativecountryflag_dist_cjs_flags_np.png"
+    },
+    {
+        "merged": "com.tinna.app-merged_res-31:/drawable-mdpi_node_modules_reactnativecountryflag_dist_cjs_flags_tt.png.flat",
+        "source": "com.tinna.app-main-33:/drawable-mdpi/node_modules_reactnativecountryflag_dist_cjs_flags_tt.png"
+    },
+    {
+        "merged": "com.tinna.app-merged_res-31:/drawable-mdpi_node_modules_reactnativecountryflag_dist_cjs_flags_vc.png.flat",
+        "source": "com.tinna.app-main-33:/drawable-mdpi/node_modules_reactnativecountryflag_dist_cjs_flags_vc.png"
+    },
+    {
+        "merged": "com.tinna.app-merged_res-31:/drawable-mdpi_node_modules_reactnativecountryflag_dist_cjs_flags_ng.png.flat",
+        "source": "com.tinna.app-main-33:/drawable-mdpi/node_modules_reactnativecountryflag_dist_cjs_flags_ng.png"
+    },
+    {
+        "merged": "com.tinna.app-merged_res-31:/drawable-mdpi_node_modules_reactnativecountryflag_dist_cjs_flags_bs.png.flat",
+        "source": "com.tinna.app-main-33:/drawable-mdpi/node_modules_reactnativecountryflag_dist_cjs_flags_bs.png"
+    },
+    {
+        "merged": "com.tinna.app-merged_res-31:/drawable-mdpi_node_modules_reactnativecountryflag_dist_cjs_flags_gt.png.flat",
+        "source": "com.tinna.app-main-33:/drawable-mdpi/node_modules_reactnativecountryflag_dist_cjs_flags_gt.png"
+    },
+    {
+        "merged": "com.tinna.app-merged_res-31:/drawable-mdpi_node_modules_reactnativecountryflag_dist_cjs_flags_ae.png.flat",
+        "source": "com.tinna.app-main-33:/drawable-mdpi/node_modules_reactnativecountryflag_dist_cjs_flags_ae.png"
+    },
+    {
+        "merged": "com.tinna.app-merged_res-31:/drawable-mdpi_node_modules_reactnativecountryflag_dist_cjs_flags_gi.png.flat",
+        "source": "com.tinna.app-main-33:/drawable-mdpi/node_modules_reactnativecountryflag_dist_cjs_flags_gi.png"
+    },
+    {
+        "merged": "com.tinna.app-merged_res-31:/drawable-mdpi_node_modules_reactnativecountryflag_dist_cjs_flags_io.png.flat",
+        "source": "com.tinna.app-main-33:/drawable-mdpi/node_modules_reactnativecountryflag_dist_cjs_flags_io.png"
+    },
+    {
+        "merged": "com.tinna.app-merged_res-31:/drawable-mdpi_node_modules_reactnativecountryflag_dist_cjs_flags_sh.png.flat",
+        "source": "com.tinna.app-main-33:/drawable-mdpi/node_modules_reactnativecountryflag_dist_cjs_flags_sh.png"
+    },
+    {
+        "merged": "com.tinna.app-merged_res-31:/drawable-mdpi_node_modules_reactnativecountryflag_dist_cjs_flags_jo.png.flat",
+        "source": "com.tinna.app-main-33:/drawable-mdpi/node_modules_reactnativecountryflag_dist_cjs_flags_jo.png"
+    },
+    {
+        "merged": "com.tinna.app-merged_res-31:/drawable-mdpi_assets_images_success.png.flat",
+        "source": "com.tinna.app-main-33:/drawable-mdpi/assets_images_success.png"
+    },
+    {
+        "merged": "com.tinna.app-merged_res-31:/drawable-mdpi_node_modules_reactnativecountryflag_dist_cjs_flags_mg.png.flat",
+        "source": "com.tinna.app-main-33:/drawable-mdpi/node_modules_reactnativecountryflag_dist_cjs_flags_mg.png"
+    },
+    {
+        "merged": "com.tinna.app-merged_res-31:/drawable-mdpi_node_modules_reactnativecountryflag_dist_cjs_flags_lu.png.flat",
+        "source": "com.tinna.app-main-33:/drawable-mdpi/node_modules_reactnativecountryflag_dist_cjs_flags_lu.png"
+    },
+    {
+        "merged": "com.tinna.app-merged_res-31:/drawable-mdpi_node_modules_reactnativecountryflag_dist_cjs_flags_dk.png.flat",
+        "source": "com.tinna.app-main-33:/drawable-mdpi/node_modules_reactnativecountryflag_dist_cjs_flags_dk.png"
+    },
+    {
+        "merged": "com.tinna.app-merged_res-31:/drawable-mdpi_node_modules_reactnativecountryflag_dist_cjs_flags_mx.png.flat",
+        "source": "com.tinna.app-main-33:/drawable-mdpi/node_modules_reactnativecountryflag_dist_cjs_flags_mx.png"
+    },
+    {
+        "merged": "com.tinna.app-merged_res-31:/drawable-mdpi_assets_images_clothes.jpg.flat",
+        "source": "com.tinna.app-main-33:/drawable-mdpi/assets_images_clothes.jpg"
+    },
+    {
+        "merged": "com.tinna.app-merged_res-31:/drawable-xhdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "com.tinna.app-main-33:/drawable-xhdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "com.tinna.app-merged_res-31:/drawable-mdpi_node_modules_reactnativecountryflag_dist_cjs_flags_as.png.flat",
+        "source": "com.tinna.app-main-33:/drawable-mdpi/node_modules_reactnativecountryflag_dist_cjs_flags_as.png"
+    },
+    {
+        "merged": "com.tinna.app-merged_res-31:/drawable-mdpi_node_modules_reactnativecountryflag_dist_cjs_flags_gf.png.flat",
+        "source": "com.tinna.app-main-33:/drawable-mdpi/node_modules_reactnativecountryflag_dist_cjs_flags_gf.png"
+    },
+    {
+        "merged": "com.tinna.app-merged_res-31:/drawable-mdpi_assets_images_checkout.png.flat",
+        "source": "com.tinna.app-main-33:/drawable-mdpi/assets_images_checkout.png"
+    },
+    {
+        "merged": "com.tinna.app-merged_res-31:/drawable-mdpi_node_modules_reactnativecountryflag_dist_cjs_flags_gw.png.flat",
+        "source": "com.tinna.app-main-33:/drawable-mdpi/node_modules_reactnativecountryflag_dist_cjs_flags_gw.png"
+    },
+    {
+        "merged": "com.tinna.app-merged_res-31:/drawable-mdpi_node_modules_reactnativecountryflag_dist_cjs_flags_be.png.flat",
+        "source": "com.tinna.app-main-33:/drawable-mdpi/node_modules_reactnativecountryflag_dist_cjs_flags_be.png"
+    },
+    {
+        "merged": "com.tinna.app-merged_res-31:/drawable-mdpi_node_modules_reactnativecountryflag_dist_cjs_flags_qa.png.flat",
+        "source": "com.tinna.app-main-33:/drawable-mdpi/node_modules_reactnativecountryflag_dist_cjs_flags_qa.png"
+    },
+    {
+        "merged": "com.tinna.app-merged_res-31:/drawable-mdpi_node_modules_reactnativecountryflag_dist_cjs_flags_gq.png.flat",
+        "source": "com.tinna.app-main-33:/drawable-mdpi/node_modules_reactnativecountryflag_dist_cjs_flags_gq.png"
+    },
+    {
+        "merged": "com.tinna.app-merged_res-31:/drawable-mdpi_assets_images_netprofit.png.flat",
+        "source": "com.tinna.app-main-33:/drawable-mdpi/assets_images_netprofit.png"
+    },
+    {
+        "merged": "com.tinna.app-merged_res-31:/drawable-mdpi_node_modules_reactnativecountryflag_dist_cjs_flags_sr.png.flat",
+        "source": "com.tinna.app-main-33:/drawable-mdpi/node_modules_reactnativecountryflag_dist_cjs_flags_sr.png"
+    },
+    {
+        "merged": "com.tinna.app-merged_res-31:/drawable-mdpi_node_modules_reactnativecountryflag_dist_cjs_flags_no.png.flat",
+        "source": "com.tinna.app-main-33:/drawable-mdpi/node_modules_reactnativecountryflag_dist_cjs_flags_no.png"
+    },
+    {
+        "merged": "com.tinna.app-merged_res-31:/drawable-mdpi_node_modules_reactnativecountryflag_dist_cjs_flags_ie.png.flat",
+        "source": "com.tinna.app-main-33:/drawable-mdpi/node_modules_reactnativecountryflag_dist_cjs_flags_ie.png"
+    },
+    {
+        "merged": "com.tinna.app-merged_res-31:/drawable-mdpi_node_modules_reactnativecountryflag_dist_cjs_flags_um.png.flat",
+        "source": "com.tinna.app-main-33:/drawable-mdpi/node_modules_reactnativecountryflag_dist_cjs_flags_um.png"
+    },
+    {
+        "merged": "com.tinna.app-merged_res-31:/drawable-mdpi_node_modules_reactnativecountryflag_dist_cjs_flags_om.png.flat",
+        "source": "com.tinna.app-main-33:/drawable-mdpi/node_modules_reactnativecountryflag_dist_cjs_flags_om.png"
+    },
+    {
+        "merged": "com.tinna.app-merged_res-31:/drawable-mdpi_assets_images_controlpannel2.png.flat",
+        "source": "com.tinna.app-main-33:/drawable-mdpi/assets_images_controlpannel2.png"
+    },
+    {
+        "merged": "com.tinna.app-merged_res-31:/drawable-mdpi_node_modules_reactnativecountryflag_dist_cjs_flags_cz.png.flat",
+        "source": "com.tinna.app-main-33:/drawable-mdpi/node_modules_reactnativecountryflag_dist_cjs_flags_cz.png"
+    },
+    {
+        "merged": "com.tinna.app-merged_res-31:/drawable-mdpi_node_modules_reactnativecountryflag_dist_cjs_flags_bg.png.flat",
+        "source": "com.tinna.app-main-33:/drawable-mdpi/node_modules_reactnativecountryflag_dist_cjs_flags_bg.png"
+    },
+    {
+        "merged": "com.tinna.app-merged_res-31:/drawable-mdpi_node_modules_reactnativecountryflag_dist_cjs_flags_sy.png.flat",
+        "source": "com.tinna.app-main-33:/drawable-mdpi/node_modules_reactnativecountryflag_dist_cjs_flags_sy.png"
+    },
+    {
+        "merged": "com.tinna.app-merged_res-31:/drawable-mdpi_node_modules_reactnativecountryflag_dist_cjs_flags_to.png.flat",
+        "source": "com.tinna.app-main-33:/drawable-mdpi/node_modules_reactnativecountryflag_dist_cjs_flags_to.png"
+    },
+    {
+        "merged": "com.tinna.app-merged_res-31:/drawable-mdpi_node_modules_reactnativecountryflag_dist_cjs_flags_mr.png.flat",
+        "source": "com.tinna.app-main-33:/drawable-mdpi/node_modules_reactnativecountryflag_dist_cjs_flags_mr.png"
+    },
+    {
+        "merged": "com.tinna.app-merged_res-31:/drawable-mdpi_node_modules_reactnativecountryflag_dist_cjs_flags_mk.png.flat",
+        "source": "com.tinna.app-main-33:/drawable-mdpi/node_modules_reactnativecountryflag_dist_cjs_flags_mk.png"
+    },
+    {
+        "merged": "com.tinna.app-merged_res-31:/drawable-mdpi_node_modules_reactnativecountryflag_dist_cjs_flags_py.png.flat",
+        "source": "com.tinna.app-main-33:/drawable-mdpi/node_modules_reactnativecountryflag_dist_cjs_flags_py.png"
+    },
+    {
+        "merged": "com.tinna.app-merged_res-31:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.tinna.app-main-33:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.tinna.app-merged_res-31:/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "com.tinna.app-main-33:/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.tinna.app-merged_res-31:/drawable-mdpi_node_modules_reactnativecountryflag_dist_cjs_flags_lt.png.flat",
+        "source": "com.tinna.app-main-33:/drawable-mdpi/node_modules_reactnativecountryflag_dist_cjs_flags_lt.png"
+    },
+    {
+        "merged": "com.tinna.app-merged_res-31:/drawable-mdpi_node_modules_reactnativecountryflag_dist_cjs_flags_bf.png.flat",
+        "source": "com.tinna.app-main-33:/drawable-mdpi/node_modules_reactnativecountryflag_dist_cjs_flags_bf.png"
+    },
+    {
+        "merged": "com.tinna.app-merged_res-31:/drawable-mdpi_node_modules_reactnativecountryflag_dist_cjs_flags_ls.png.flat",
+        "source": "com.tinna.app-main-33:/drawable-mdpi/node_modules_reactnativecountryflag_dist_cjs_flags_ls.png"
+    },
+    {
+        "merged": "com.tinna.app-merged_res-31:/drawable-mdpi_assets_images_cover.png.flat",
+        "source": "com.tinna.app-main-33:/drawable-mdpi/assets_images_cover.png"
+    },
+    {
+        "merged": "com.tinna.app-merged_res-31:/drawable-mdpi_node_modules_reactnativecountryflag_dist_cjs_flags_kp.png.flat",
+        "source": "com.tinna.app-main-33:/drawable-mdpi/node_modules_reactnativecountryflag_dist_cjs_flags_kp.png"
+    },
+    {
+        "merged": "com.tinna.app-merged_res-31:/drawable-mdpi_node_modules_reactnativecountryflag_dist_cjs_flags_ss.png.flat",
+        "source": "com.tinna.app-main-33:/drawable-mdpi/node_modules_reactnativecountryflag_dist_cjs_flags_ss.png"
+    },
+    {
+        "merged": "com.tinna.app-merged_res-31:/drawable-mdpi_assets_images_balancesheet.png.flat",
+        "source": "com.tinna.app-main-33:/drawable-mdpi/assets_images_balancesheet.png"
+    },
+    {
+        "merged": "com.tinna.app-merged_res-31:/drawable-mdpi_node_modules_reactnativecountryflag_dist_cjs_flags_id.png.flat",
+        "source": "com.tinna.app-main-33:/drawable-mdpi/node_modules_reactnativecountryflag_dist_cjs_flags_id.png"
+    },
+    {
+        "merged": "com.tinna.app-merged_res-31:/drawable-mdpi_node_modules_reactnativecountryflag_dist_cjs_flags_ve.png.flat",
+        "source": "com.tinna.app-main-33:/drawable-mdpi/node_modules_reactnativecountryflag_dist_cjs_flags_ve.png"
+    },
+    {
+        "merged": "com.tinna.app-merged_res-31:/drawable-mdpi_node_modules_reactnativecountryflag_dist_cjs_flags_bm.png.flat",
+        "source": "com.tinna.app-main-33:/drawable-mdpi/node_modules_reactnativecountryflag_dist_cjs_flags_bm.png"
+    },
+    {
+        "merged": "com.tinna.app-merged_res-31:/drawable-mdpi_assets_images_staffs.png.flat",
+        "source": "com.tinna.app-main-33:/drawable-mdpi/assets_images_staffs.png"
+    },
+    {
+        "merged": "com.tinna.app-merged_res-31:/drawable-mdpi_node_modules_reactnativecountryflag_dist_cjs_flags_fr.png.flat",
+        "source": "com.tinna.app-main-33:/drawable-mdpi/node_modules_reactnativecountryflag_dist_cjs_flags_fr.png"
+    },
+    {
+        "merged": "com.tinna.app-merged_res-31:/drawable-mdpi_node_modules_reactnativecountryflag_dist_cjs_flags_tv.png.flat",
+        "source": "com.tinna.app-main-33:/drawable-mdpi/node_modules_reactnativecountryflag_dist_cjs_flags_tv.png"
+    },
+    {
+        "merged": "com.tinna.app-merged_res-31:/drawable-mdpi_node_modules_reactnativecountryflag_dist_cjs_flags_gd.png.flat",
+        "source": "com.tinna.app-main-33:/drawable-mdpi/node_modules_reactnativecountryflag_dist_cjs_flags_gd.png"
+    },
+    {
+        "merged": "com.tinna.app-merged_res-31:/drawable-mdpi_node_modules_reactnativecountryflag_dist_cjs_flags_hn.png.flat",
+        "source": "com.tinna.app-main-33:/drawable-mdpi/node_modules_reactnativecountryflag_dist_cjs_flags_hn.png"
+    },
+    {
+        "merged": "com.tinna.app-merged_res-31:/drawable-mdpi_node_modules_reactnativecountryflag_dist_cjs_flags_zw.png.flat",
+        "source": "com.tinna.app-main-33:/drawable-mdpi/node_modules_reactnativecountryflag_dist_cjs_flags_zw.png"
+    },
+    {
+        "merged": "com.tinna.app-merged_res-31:/drawable-mdpi_node_modules_reactnativecountryflag_dist_cjs_flags_kw.png.flat",
+        "source": "com.tinna.app-main-33:/drawable-mdpi/node_modules_reactnativecountryflag_dist_cjs_flags_kw.png"
+    },
+    {
+        "merged": "com.tinna.app-merged_res-31:/drawable-mdpi_node_modules_reactnativecountryflag_dist_cjs_flags_ad.png.flat",
+        "source": "com.tinna.app-main-33:/drawable-mdpi/node_modules_reactnativecountryflag_dist_cjs_flags_ad.png"
+    },
+    {
+        "merged": "com.tinna.app-merged_res-31:/drawable-mdpi_node_modules_reactnativecountryflag_dist_cjs_flags_ml.png.flat",
+        "source": "com.tinna.app-main-33:/drawable-mdpi/node_modules_reactnativecountryflag_dist_cjs_flags_ml.png"
+    },
+    {
+        "merged": "com.tinna.app-merged_res-31:/drawable-mdpi_assets_images_mybuss.png.flat",
+        "source": "com.tinna.app-main-33:/drawable-mdpi/assets_images_mybuss.png"
+    },
+    {
+        "merged": "com.tinna.app-merged_res-31:/drawable-mdpi_node_modules_reactnativecountryflag_dist_cjs_flags_me.png.flat",
+        "source": "com.tinna.app-main-33:/drawable-mdpi/node_modules_reactnativecountryflag_dist_cjs_flags_me.png"
+    },
+    {
+        "merged": "com.tinna.app-merged_res-31:/drawable-mdpi_node_modules_reactnativecountryflag_dist_cjs_flags_hm.png.flat",
+        "source": "com.tinna.app-main-33:/drawable-mdpi/node_modules_reactnativecountryflag_dist_cjs_flags_hm.png"
+    },
+    {
+        "merged": "com.tinna.app-merged_res-31:/drawable-mdpi_node_modules_reactnativecountryflag_dist_cjs_flags_ro.png.flat",
+        "source": "com.tinna.app-main-33:/drawable-mdpi/node_modules_reactnativecountryflag_dist_cjs_flags_ro.png"
+    },
+    {
+        "merged": "com.tinna.app-merged_res-31:/drawable-mdpi_node_modules_reactnativecountryflag_dist_cjs_flags_bw.png.flat",
+        "source": "com.tinna.app-main-33:/drawable-mdpi/node_modules_reactnativecountryflag_dist_cjs_flags_bw.png"
+    },
+    {
+        "merged": "com.tinna.app-merged_res-31:/drawable-mdpi_node_modules_reactnativecountryflag_dist_cjs_flags_ao.png.flat",
+        "source": "com.tinna.app-main-33:/drawable-mdpi/node_modules_reactnativecountryflag_dist_cjs_flags_ao.png"
+    },
+    {
+        "merged": "com.tinna.app-merged_res-31:/drawable-mdpi_node_modules_reactnativecountryflag_dist_cjs_flags_tj.png.flat",
+        "source": "com.tinna.app-main-33:/drawable-mdpi/node_modules_reactnativecountryflag_dist_cjs_flags_tj.png"
+    },
+    {
+        "merged": "com.tinna.app-merged_res-31:/drawable-mdpi_node_modules_reactnativecountryflag_dist_cjs_flags_cu.png.flat",
+        "source": "com.tinna.app-main-33:/drawable-mdpi/node_modules_reactnativecountryflag_dist_cjs_flags_cu.png"
+    },
+    {
+        "merged": "com.tinna.app-merged_res-31:/drawable-mdpi_node_modules_reactnativecountryflag_dist_cjs_flags_us.png.flat",
+        "source": "com.tinna.app-main-33:/drawable-mdpi/node_modules_reactnativecountryflag_dist_cjs_flags_us.png"
+    },
+    {
+        "merged": "com.tinna.app-merged_res-31:/drawable-mdpi_assets_images_slide3.png.flat",
+        "source": "com.tinna.app-main-33:/drawable-mdpi/assets_images_slide3.png"
+    },
+    {
+        "merged": "com.tinna.app-merged_res-31:/drawable-mdpi_assets_images_elina.png.flat",
+        "source": "com.tinna.app-main-33:/drawable-mdpi/assets_images_elina.png"
+    },
+    {
+        "merged": "com.tinna.app-merged_res-31:/drawable-mdpi_node_modules_reactnativecountryflag_dist_cjs_flags_ge.png.flat",
+        "source": "com.tinna.app-main-33:/drawable-mdpi/node_modules_reactnativecountryflag_dist_cjs_flags_ge.png"
+    },
+    {
+        "merged": "com.tinna.app-merged_res-31:/drawable-mdpi_node_modules_reactnativecountryflag_dist_cjs_flags_ua.png.flat",
+        "source": "com.tinna.app-main-33:/drawable-mdpi/node_modules_reactnativecountryflag_dist_cjs_flags_ua.png"
+    },
+    {
+        "merged": "com.tinna.app-merged_res-31:/drawable-mdpi_node_modules_reactnativecountryflag_dist_cjs_flags_sl.png.flat",
+        "source": "com.tinna.app-main-33:/drawable-mdpi/node_modules_reactnativecountryflag_dist_cjs_flags_sl.png"
+    },
+    {
+        "merged": "com.tinna.app-merged_res-31:/drawable-mdpi_node_modules_reactnativecountryflag_dist_cjs_flags_mw.png.flat",
+        "source": "com.tinna.app-main-33:/drawable-mdpi/node_modules_reactnativecountryflag_dist_cjs_flags_mw.png"
+    },
+    {
+        "merged": "com.tinna.app-merged_res-31:/drawable-mdpi_node_modules_reactnativecountryflag_dist_cjs_flags_ly.png.flat",
+        "source": "com.tinna.app-main-33:/drawable-mdpi/node_modules_reactnativecountryflag_dist_cjs_flags_ly.png"
+    },
+    {
+        "merged": "com.tinna.app-merged_res-31:/drawable-mdpi_assets_images_financingcashflow.png.flat",
+        "source": "com.tinna.app-main-33:/drawable-mdpi/assets_images_financingcashflow.png"
+    },
+    {
+        "merged": "com.tinna.app-merged_res-31:/drawable-mdpi_node_modules_reactnativecountryflag_dist_cjs_flags_pt.png.flat",
+        "source": "com.tinna.app-main-33:/drawable-mdpi/node_modules_reactnativecountryflag_dist_cjs_flags_pt.png"
+    },
+    {
+        "merged": "com.tinna.app-merged_res-31:/drawable-mdpi_node_modules_reactnativecountryflag_dist_cjs_flags_ni.png.flat",
+        "source": "com.tinna.app-main-33:/drawable-mdpi/node_modules_reactnativecountryflag_dist_cjs_flags_ni.png"
+    },
+    {
+        "merged": "com.tinna.app-merged_res-31:/drawable-mdpi_node_modules_reactnativecountryflag_dist_cjs_flags_lc.png.flat",
+        "source": "com.tinna.app-main-33:/drawable-mdpi/node_modules_reactnativecountryflag_dist_cjs_flags_lc.png"
+    },
+    {
+        "merged": "com.tinna.app-merged_res-31:/drawable-mdpi_node_modules_reactnativecountryflag_dist_cjs_flags_ke.png.flat",
+        "source": "com.tinna.app-main-33:/drawable-mdpi/node_modules_reactnativecountryflag_dist_cjs_flags_ke.png"
+    },
+    {
+        "merged": "com.tinna.app-merged_res-31:/drawable-mdpi_assets_images_expense.png.flat",
+        "source": "com.tinna.app-main-33:/drawable-mdpi/assets_images_expense.png"
+    },
+    {
+        "merged": "com.tinna.app-merged_res-31:/drawable-mdpi_node_modules_reactnativecountryflag_dist_cjs_flags_fm.png.flat",
+        "source": "com.tinna.app-main-33:/drawable-mdpi/node_modules_reactnativecountryflag_dist_cjs_flags_fm.png"
+    },
+    {
+        "merged": "com.tinna.app-merged_res-31:/drawable-mdpi_node_modules_reactnativecountryflag_dist_cjs_flags_ug.png.flat",
+        "source": "com.tinna.app-main-33:/drawable-mdpi/node_modules_reactnativecountryflag_dist_cjs_flags_ug.png"
+    },
+    {
+        "merged": "com.tinna.app-merged_res-31:/drawable-mdpi_node_modules_reactnativedropdownselectlist_assets_images_close.png.flat",
+        "source": "com.tinna.app-main-33:/drawable-mdpi/node_modules_reactnativedropdownselectlist_assets_images_close.png"
+    },
+    {
+        "merged": "com.tinna.app-merged_res-31:/drawable-mdpi_node_modules_reactnativecountryflag_dist_cjs_flags_ru.png.flat",
+        "source": "com.tinna.app-main-33:/drawable-mdpi/node_modules_reactnativecountryflag_dist_cjs_flags_ru.png"
+    },
+    {
+        "merged": "com.tinna.app-merged_res-31:/drawable-mdpi_node_modules_reactnativecountryflag_dist_cjs_flags_gp.png.flat",
+        "source": "com.tinna.app-main-33:/drawable-mdpi/node_modules_reactnativecountryflag_dist_cjs_flags_gp.png"
+    },
+    {
+        "merged": "com.tinna.app-merged_res-31:/drawable-mdpi_node_modules_reactnativecountryflag_dist_cjs_flags_td.png.flat",
+        "source": "com.tinna.app-main-33:/drawable-mdpi/node_modules_reactnativecountryflag_dist_cjs_flags_td.png"
+    },
+    {
+        "merged": "com.tinna.app-merged_res-31:/drawable-mdpi_node_modules_reactnativecountryflag_dist_cjs_flags_sa.png.flat",
+        "source": "com.tinna.app-main-33:/drawable-mdpi/node_modules_reactnativecountryflag_dist_cjs_flags_sa.png"
+    },
+    {
+        "merged": "com.tinna.app-merged_res-31:/drawable-mdpi_node_modules_reactnativecountryflag_dist_cjs_flags_ba.png.flat",
+        "source": "com.tinna.app-main-33:/drawable-mdpi/node_modules_reactnativecountryflag_dist_cjs_flags_ba.png"
+    },
+    {
+        "merged": "com.tinna.app-merged_res-31:/drawable-mdpi_node_modules_reactnativecountryflag_dist_cjs_flags_sx.png.flat",
+        "source": "com.tinna.app-main-33:/drawable-mdpi/node_modules_reactnativecountryflag_dist_cjs_flags_sx.png"
+    },
+    {
+        "merged": "com.tinna.app-merged_res-31:/drawable-mdpi_node_modules_reactnativecountryflag_dist_cjs_flags_eu.png.flat",
+        "source": "com.tinna.app-main-33:/drawable-mdpi/node_modules_reactnativecountryflag_dist_cjs_flags_eu.png"
+    },
+    {
+        "merged": "com.tinna.app-merged_res-31:/drawable-mdpi_node_modules_reactnativecountryflag_dist_cjs_flags_cd.png.flat",
+        "source": "com.tinna.app-main-33:/drawable-mdpi/node_modules_reactnativecountryflag_dist_cjs_flags_cd.png"
+    },
+    {
+        "merged": "com.tinna.app-merged_res-31:/drawable-mdpi_assets_images_logo.png.flat",
+        "source": "com.tinna.app-main-33:/drawable-mdpi/assets_images_logo.png"
+    },
+    {
+        "merged": "com.tinna.app-merged_res-31:/drawable-mdpi_node_modules_reactnativecountryflag_dist_cjs_flags_mq.png.flat",
+        "source": "com.tinna.app-main-33:/drawable-mdpi/node_modules_reactnativecountryflag_dist_cjs_flags_mq.png"
+    },
+    {
+        "merged": "com.tinna.app-merged_res-31:/drawable-mdpi_assets_images_founder.png.flat",
+        "source": "com.tinna.app-main-33:/drawable-mdpi/assets_images_founder.png"
+    },
+    {
+        "merged": "com.tinna.app-merged_res-31:/drawable-mdpi_assets_images_revenue.png.flat",
+        "source": "com.tinna.app-main-33:/drawable-mdpi/assets_images_revenue.png"
+    },
+    {
+        "merged": "com.tinna.app-merged_res-31:/drawable-mdpi_node_modules_reactnativecountryflag_dist_cjs_flags_co.png.flat",
+        "source": "com.tinna.app-main-33:/drawable-mdpi/node_modules_reactnativecountryflag_dist_cjs_flags_co.png"
+    },
+    {
+        "merged": "com.tinna.app-merged_res-31:/drawable-mdpi_node_modules_reactnativecountryflag_dist_cjs_flags_az.png.flat",
+        "source": "com.tinna.app-main-33:/drawable-mdpi/node_modules_reactnativecountryflag_dist_cjs_flags_az.png"
+    },
+    {
+        "merged": "com.tinna.app-merged_res-31:/drawable-mdpi_node_modules_reactnativecountryflag_dist_cjs_flags_bl.png.flat",
+        "source": "com.tinna.app-main-33:/drawable-mdpi/node_modules_reactnativecountryflag_dist_cjs_flags_bl.png"
+    },
+    {
+        "merged": "com.tinna.app-merged_res-31:/drawable-mdpi_node_modules_reactnativecountryflag_dist_cjs_flags_ai.png.flat",
+        "source": "com.tinna.app-main-33:/drawable-mdpi/node_modules_reactnativecountryflag_dist_cjs_flags_ai.png"
+    },
+    {
+        "merged": "com.tinna.app-merged_res-31:/drawable-mdpi_assets_images_newt.png.flat",
+        "source": "com.tinna.app-main-33:/drawable-mdpi/assets_images_newt.png"
+    },
+    {
+        "merged": "com.tinna.app-merged_res-31:/drawable-mdpi_assets_images_star.png.flat",
+        "source": "com.tinna.app-main-33:/drawable-mdpi/assets_images_star.png"
+    },
+    {
+        "merged": "com.tinna.app-merged_res-31:/drawable-mdpi_node_modules_reactnativecountryflag_dist_cjs_flags_nc.png.flat",
+        "source": "com.tinna.app-main-33:/drawable-mdpi/node_modules_reactnativecountryflag_dist_cjs_flags_nc.png"
+    },
+    {
+        "merged": "com.tinna.app-merged_res-31:/drawable-mdpi_assets_images_usernot.png.flat",
+        "source": "com.tinna.app-main-33:/drawable-mdpi/assets_images_usernot.png"
+    }
+]
